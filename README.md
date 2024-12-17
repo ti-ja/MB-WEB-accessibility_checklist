@@ -179,3 +179,5 @@ Un menu déroulant par exemple n'est pas du tout une solution d'accessibilité a
 #### Accessibilité mal entendants
 
 - [Sous titrage html avec `<track>`](https://developer.mozilla.org/fr/docs/Web/HTML/Element/track)
+
+#### Traduire le site grâce à des icônes type pictogramme pour aider à la compréhension dans le cadre de l'accès au FALC pour les défficients intellectuels

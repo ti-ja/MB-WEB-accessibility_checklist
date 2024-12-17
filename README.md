@@ -44,7 +44,7 @@ et s'il y a un mot en anglais ajouter un `<span lang="en">Hello World !</span>`
 
 Définir les rôles des pages pour les lecteurs d'écran, plus spécifiquement les Blocks sémantiques, en limitant le nombre de découpage en DIV inutiles
 
-```json
+```txt
 role="banner" - dans header
 role="main" - dans main
 role="content-info" - dans footer
@@ -119,7 +119,7 @@ Ici, le lecteur va restituer :
 
 #### 13. Autres attributs ARIA
 
-```json
+```txt
 - aria-labelledby : indiquer les id des éléments qui titrent l'objet
 - aria-describedby : indiquer les id des éléments qui décrivent l'objet
 - aria-required : élément obligatoire
